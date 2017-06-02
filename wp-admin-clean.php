@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Removes Dashboard Widgets
- * Plugin URI: http://www.werdswords.com
+ * Plugin URI: http://www.karskiy.com
  * Description: Плагин удаляет в админке виджеты на странице консоли и чистит типы постов (post, page) от ненужностей некоторых.
  * Version: 1.0.0
  * Author: Karskiy
